@@ -43,11 +43,11 @@
 
 
 
-companies: ["Uber", "Netflix", "Snapchat", "Lyft", "Instagram", "Facebook", "Twitter", "Pandora", "YouTube", "Spotify", "SoundCloud", "iTunes", "Amazon", "Oovoo", "Yelp", "Tinder", "Hulu",
+companies= ["Uber", "Netflix", "Snapchat", "Lyft", "Instagram", "Facebook", "Twitter", "Pandora", "YouTube", "Spotify", "SoundCloud", "iTunes", "Amazon", "Oovoo", "Yelp", "Tinder", "Hulu",
  "HBO Now", "eBay", "Craigslist", "Pintrest", "Fandago", "Bitmoji", "Cartoon Network", "waze", "chrome", "Safari", "Doorman", "Wish"];
 
-clients: ["old people", "stoners", "kids", "tweens", "teens", "young adults", "old cat ladies", "dog people", "diabetics", "creeps", "stalkers", "fitness people", "ratchets", "truck drivers",
-    "music junkies", "computer scientists", "musicians", "phone addicts", "people named courtney", "activists", "liberals", "dumb people(aka trump supporters)", "hippies", "mastodon", "adrenalin junkies"
+clients= ["old people", "stoners", "kids", "tweens", "teens", "young adults", "old cat ladies", "dog people", "diabetics", "creeps", "stalkers", "fitness people", "ratchets", "truck drivers",
+    "music junkies", "computer scientists", "musicians", "phone addicts", "people named courtney", "activists", "liberals", "dumb people(aka trump supporters)", "hippies", "mastodon", "adrenalin junkies"]
 
 
 
