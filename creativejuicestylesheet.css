@@ -1,8 +1,30 @@
-body
-{
-    background-color:yellow
+
+.hyphenate{
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
 }
-{
-    font-family:"Georgia";
-    font-size:30px;
+
+#bottom{
+    margin-top: 35%;
+    font-size: 12px;
+
+}
+
+#background{
+    background-color: #1A405F;
+}
+
+#generate{
+    margin-top: .5cm;
+    font-size: 30px;
+    margin-left: 43%;
+}
+
+#output{
+    margin-left: 37%;
+    font-size: 40px;
+    color: #0B1B5F;
+    margin-top: 1cm;
 }
