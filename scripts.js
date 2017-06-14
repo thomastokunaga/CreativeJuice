@@ -19,16 +19,15 @@ $(document).ready(function() {
 
             document.getElementById("company").className = "hyphenate";
             document.getElementById("client").className = "hyphenate";
-
+            Hyphenator.config({hyphenchar:'-'});
             Hyphenator.run();
-            setTimeout(split(), 10);
+            setTimeout(split, 50);
         })
 
 });
 
 
 function split(){
-    //alert("hello world");
     var clihy = document.getElementById("client").innerHTML;
     var comhy = document.getElementById("company").innerHTML;
 
